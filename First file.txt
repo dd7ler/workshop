@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 this is not a file.
+=======
+<<<<<<< HEAD
+Git is confusing!!!
+=======
+Derin is best!!
+>>>>>>> fe417b59b2ab9d320fc8e7569564b822f11f8dc6
+>>>>>>> 5a18a2e370fa47e2b8fa538069aa6607e5e59332
