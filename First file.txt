@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git is confusing!!!
+=======
+Derin is best!!
+>>>>>>> fe417b59b2ab9d320fc8e7569564b822f11f8dc6
